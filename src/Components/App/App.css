@@ -110,6 +110,12 @@ form button:active {
   font-weight: 500;
 }
 
+@media (max-width: 575.98px) {
+  .color-box {
+    height: 120px;
+  }
+}
+
 .shade {
   color: whitesmoke;
 }
