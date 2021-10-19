@@ -1,5 +1,5 @@
 import "./App.css";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Color from "../Color/Color";
 import Values from "values.js";
 
